@@ -4,7 +4,7 @@ Task 2 : Data Cleaning and Eexploratory Data Analysis
 
 🔹 Project Overview
 
-This project demonstrates data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The goal is to uncover meaningful insights about passenger survival patterns by analyzing various features like age, gender, class, and fare.
+This task demonstrates data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The goal is to uncover meaningful insights about passenger survival patterns by analyzing various features like age, gender, class, and fare.
 
 🎯 Objectives
 
